@@ -1,5 +1,8 @@
 <h1 align="center">Jogo da Velha</h1>
 
+![Jogo nao finalizado](https://user-images.githubusercontent.com/50726344/221929864-39f24d92-1537-43e2-aaed-ba24a20cf728.png)
+
+
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=Em%20Desenvolvimento&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
